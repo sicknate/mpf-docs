@@ -76,6 +76,19 @@ Here's an example of shot lines on Demolition Man:
 
 .. image:: shotlines.gif
 
+Borrowing Shots With CAD
+------------------------
+
+If you have planned shot in an area that matches an existing machine, you can borrow/take their geometry. This way you know the geometry will be good without any revisions. PDF's of instructions manuals for games are a good source for the flat overhead pic you will need. https://www.ipdb.org is one good source for these.
+
+Most CAD programs have a function to overlay an image file directly onto your model. Search youtube for "How to overlay image" + your CAD system.
+
+You will have to move and skew the image until the flippers and size line up with your drawing. Once this is done you can take a shot with confidence.
+
+Here's an example of a Spiderman pinball overlay onto a homebrew pinball machine to get the geometry of the Venom ramp shot.
+
+.. image:: venomRamp2.png
+
 Anything missing?
 -----------------
 
